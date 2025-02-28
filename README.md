@@ -1,4 +1,4 @@
-<img src="gitbanner-2024-2.png" width=100% alt="send email to cybaaura@gmail.com" />
+<img src="iT.jpeg" width=100% alt="send email to cybaaura@gmail.com" />
 
 # 👋 Welcome to My GitHub Profile!
 
