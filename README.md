@@ -133,7 +133,7 @@ I occasionally share my thoughts, ideas, and coding tips on my personal blog. Ch
 --->
 ## Certifications...  
 Completed:  
-- [A-Z 900:[ Cybersecurity Specialist](https://vfdtech.udemy.com/certificate/UC-407d0998-071f-4957-a177-807e3fdd52f1/)
+- [A-Z 900:](https://vfdtech.udemy.com/certificate/UC-407d0998-071f-4957-a177-807e3fdd52f1/)
 - [Google Cybersecurity Specialization](https://vfdtech.udemy.com/certificate/UC-1f2438c2-9f7f-4f10-8cc9-f34e45a38096/)
 - [Lighthouse Labs: Data Analysist](https://vfdtech.udemy.com/certificate/UC-ac70b239-7048-4109-945c-e2b4e44a263c/) 
 - [Lighthouse Labs: Full Stack Web Developer](https://www.lighthouselabs.ca/en/web-development)
